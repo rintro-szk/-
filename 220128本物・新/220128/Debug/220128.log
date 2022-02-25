@@ -1,0 +1,43 @@
+﻿  main.cpp
+C:\Users\user\Desktop\220128本物・新\220128\main.cpp(21): warning C4553: '==': 式の結果が使用されていません。'=' を意図していますか?
+C:\Users\user\Desktop\220128本物・新\220128\main.cpp(90): warning C4473: 'printf': 書式文字列として渡された引数が不足しています
+  C:\Users\user\Desktop\220128本物・新\220128\main.cpp(90): note: プレースホルダーとそのパラメーターには 1 の可変個引数が必要ですが、0 が指定されています。
+  C:\Users\user\Desktop\220128本物・新\220128\main.cpp(90): note: 不足している可変個引数 1 が書式文字列 '%s' に必要です
+C:\Users\user\Desktop\220128本物・新\220128\main.cpp(124): warning C4473: 'printf': 書式文字列として渡された引数が不足しています
+  C:\Users\user\Desktop\220128本物・新\220128\main.cpp(124): note: プレースホルダーとそのパラメーターには 1 の可変個引数が必要ですが、0 が指定されています。
+  C:\Users\user\Desktop\220128本物・新\220128\main.cpp(124): note: 不足している可変個引数 1 が書式文字列 '%s' に必要です
+C:\Users\user\Desktop\220128本物・新\220128\main.cpp(137): warning C4473: 'printf': 書式文字列として渡された引数が不足しています
+  C:\Users\user\Desktop\220128本物・新\220128\main.cpp(137): note: プレースホルダーとそのパラメーターには 1 の可変個引数が必要ですが、0 が指定されています。
+  C:\Users\user\Desktop\220128本物・新\220128\main.cpp(137): note: 不足している可変個引数 1 が書式文字列 '%s' に必要です
+C:\Users\user\Desktop\220128本物・新\220128\main.cpp(163): warning C4473: 'printf': 書式文字列として渡された引数が不足しています
+  C:\Users\user\Desktop\220128本物・新\220128\main.cpp(163): note: プレースホルダーとそのパラメーターには 1 の可変個引数が必要ですが、0 が指定されています。
+  C:\Users\user\Desktop\220128本物・新\220128\main.cpp(163): note: 不足している可変個引数 1 が書式文字列 '%s' に必要です
+C:\Users\user\Desktop\220128本物・新\220128\main.cpp(182): warning C4473: 'printf': 書式文字列として渡された引数が不足しています
+  C:\Users\user\Desktop\220128本物・新\220128\main.cpp(182): note: プレースホルダーとそのパラメーターには 1 の可変個引数が必要ですが、0 が指定されています。
+  C:\Users\user\Desktop\220128本物・新\220128\main.cpp(182): note: 不足している可変個引数 1 が書式文字列 '%s' に必要です
+C:\Users\user\Desktop\220128本物・新\220128\main.cpp(219): warning C4473: 'printf': 書式文字列として渡された引数が不足しています
+  C:\Users\user\Desktop\220128本物・新\220128\main.cpp(219): note: プレースホルダーとそのパラメーターには 1 の可変個引数が必要ですが、0 が指定されています。
+  C:\Users\user\Desktop\220128本物・新\220128\main.cpp(219): note: 不足している可変個引数 1 が書式文字列 '%s' に必要です
+C:\Users\user\Desktop\220128本物・新\220128\main.cpp(231): warning C4473: 'printf': 書式文字列として渡された引数が不足しています
+  C:\Users\user\Desktop\220128本物・新\220128\main.cpp(231): note: プレースホルダーとそのパラメーターには 1 の可変個引数が必要ですが、0 が指定されています。
+  C:\Users\user\Desktop\220128本物・新\220128\main.cpp(231): note: 不足している可変個引数 1 が書式文字列 '%s' に必要です
+C:\Users\user\Desktop\220128本物・新\220128\main.cpp(257): warning C4473: 'printf': 書式文字列として渡された引数が不足しています
+  C:\Users\user\Desktop\220128本物・新\220128\main.cpp(257): note: プレースホルダーとそのパラメーターには 1 の可変個引数が必要ですが、0 が指定されています。
+  C:\Users\user\Desktop\220128本物・新\220128\main.cpp(257): note: 不足している可変個引数 1 が書式文字列 '%s' に必要です
+C:\Users\user\Desktop\220128本物・新\220128\main.cpp(297): warning C4473: 'printf': 書式文字列として渡された引数が不足しています
+  C:\Users\user\Desktop\220128本物・新\220128\main.cpp(297): note: プレースホルダーとそのパラメーターには 1 の可変個引数が必要ですが、0 が指定されています。
+  C:\Users\user\Desktop\220128本物・新\220128\main.cpp(297): note: 不足している可変個引数 1 が書式文字列 '%s' に必要です
+C:\Users\user\Desktop\220128本物・新\220128\main.cpp(314): warning C4473: 'printf': 書式文字列として渡された引数が不足しています
+  C:\Users\user\Desktop\220128本物・新\220128\main.cpp(314): note: プレースホルダーとそのパラメーターには 1 の可変個引数が必要ですが、0 が指定されています。
+  C:\Users\user\Desktop\220128本物・新\220128\main.cpp(314): note: 不足している可変個引数 1 が書式文字列 '%s' に必要です
+C:\Users\user\Desktop\220128本物・新\220128\main.cpp(340): warning C4473: 'printf': 書式文字列として渡された引数が不足しています
+  C:\Users\user\Desktop\220128本物・新\220128\main.cpp(340): note: プレースホルダーとそのパラメーターには 1 の可変個引数が必要ですが、0 が指定されています。
+  C:\Users\user\Desktop\220128本物・新\220128\main.cpp(340): note: 不足している可変個引数 1 が書式文字列 '%s' に必要です
+C:\Users\user\Desktop\220128本物・新\220128\main.cpp(353): warning C4473: 'printf': 書式文字列として渡された引数が不足しています
+  C:\Users\user\Desktop\220128本物・新\220128\main.cpp(353): note: プレースホルダーとそのパラメーターには 1 の可変個引数が必要ですが、0 が指定されています。
+  C:\Users\user\Desktop\220128本物・新\220128\main.cpp(353): note: 不足している可変個引数 1 が書式文字列 '%s' に必要です
+C:\Users\user\Desktop\220128本物・新\220128\main.cpp(372): warning C4473: 'printf': 書式文字列として渡された引数が不足しています
+  C:\Users\user\Desktop\220128本物・新\220128\main.cpp(372): note: プレースホルダーとそのパラメーターには 1 の可変個引数が必要ですが、0 が指定されています。
+  C:\Users\user\Desktop\220128本物・新\220128\main.cpp(372): note: 不足している可変個引数 1 が書式文字列 '%s' に必要です
+C:\Users\user\Desktop\220128本物・新\220128\main.cpp(77): warning C4101: 'namenew': ローカル変数は 1 度も使われていません。
+  220128.vcxproj -> C:\Users\user\Desktop\220128本物・新\Debug\220128.exe
